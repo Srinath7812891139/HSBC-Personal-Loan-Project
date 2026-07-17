@@ -95,18 +95,6 @@ The interactive dashboard includes:
 
 ---
 
-## 📁 Repository Structure
-
-```text
-📦 HSBC-Personal-Loan-Analysis
-│── HSBC Data 14.xlsx
-│── HSBC Personal Loan Case Study Project.docx
-│── README.md
-│── Dashboard Screenshot.png (Optional)
-```
-
----
-
 ## 🚀 Skills Demonstrated
 
 * Microsoft Excel
